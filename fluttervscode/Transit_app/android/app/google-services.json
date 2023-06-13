@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "52428722048",
+    "project_id": "transitapp-fd11a",
+    "storage_bucket": "transitapp-fd11a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52428722048:android:739986ca0dfa90135fbb65",
+        "android_client_info": {
+          "package_name": "com.example.transit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52428722048-400niqv13erqfm4qrpk1nl46g0d050em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvvCgQnhhSOZRw0qQa0DSixylV_GeGURY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52428722048-400niqv13erqfm4qrpk1nl46g0d050em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
